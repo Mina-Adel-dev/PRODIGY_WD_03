@@ -16,4 +16,4 @@ Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 
 ## Run locally
 ```bash
-python -m http.server 8000
+python -m http.server 8002
