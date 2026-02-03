@@ -1,2 +1,19 @@
-# PRODIGY_WD_03
-Tic-Tac-Toe web app built for Prodigy WD Task-03. Includes PvP and vs AI (easy/medium/hard with minimax), scoreboard saved in localStorage, undo, move history, and keyboard accessibility
+# Prodigy WD Task-03 — Tic-Tac-Toe
+
+Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
+
+## Features
+- PvP mode (2 players)
+- Vs AI mode:
+  - Easy: random moves
+  - Medium: win/block + basic strategy
+  - Hard: minimax (unbeatable)
+- Win/draw detection + winning line highlight
+- Scoreboard (X wins / O wins / draws) saved in localStorage
+- Undo (PvP: last move, AI: reverts both moves when possible)
+- Keyboard support (arrow keys + Enter/Space)
+- Responsive UI + theme/sound options (if included)
+
+## Run locally
+```bash
+python -m http.server 8000
