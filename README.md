@@ -19,7 +19,6 @@
 
 ---
 
-## Screenshot
 
 ## Screenshot
 
@@ -27,9 +26,6 @@
   <img src="https://github.com/user-attachments/assets/b83dab8e-8f78-449c-905f-e733d6447524" alt="Tic-Tac-Toe Gameplay Screenshot" width="85%" />
 </p>
 
-
-> Put your screenshot file here: `assets/tic-tac-toe-screenshot.png`  
-> Or replace the image path with your GitHub image URL.
 
 ---
 
